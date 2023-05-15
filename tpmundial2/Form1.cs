@@ -19,7 +19,7 @@ namespace tpmundial2
             InitializeComponent();
 
         }
-        MySqlConnection conexion = new MySqlConnection("server=db4free.net; port=3306; user id=mundialtp; password=12345678; database=tablamundial; ");
+        MySqlConnection conexion = new MySqlConnection("server=****; port=****; user id=m*****; password=*******; database=*******; ");
         string equipo2;
 
         private void button9_Click(object sender, EventArgs e)
